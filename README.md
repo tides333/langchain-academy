@@ -107,3 +107,4 @@ for i in {1..6}; do
 done
 echo "TAVILY_API_KEY=\"$TAVILY_API_KEY\"" >> module-4/studio/.env
 ```
+# langchain-academy
